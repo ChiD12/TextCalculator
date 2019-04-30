@@ -1,8 +1,6 @@
 // Daniel Rosenfeld
-// ID: 27052901
-// COMP 352
-// Assignment 2
-//
+// Text Based Calculator
+//Write Equation to log.txt on the last line ending in $ then run program
 
 import java.io.*;
 
